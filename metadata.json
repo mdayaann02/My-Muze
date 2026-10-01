@@ -1,0 +1,8 @@
+{
+  "name": "My-Maze",
+  "description": "Imported from GitHub: mdayaann02/Echo-Music",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
